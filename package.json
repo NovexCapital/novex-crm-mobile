@@ -1,0 +1,10 @@
+{
+  "name": "novex-crm-mobile",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Installable Android PWA for receiving and managing Novex CRM lead updates.",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs"
+  }
+}
