@@ -1,13 +1,7 @@
 {
   "type": "module",
-  "scripts": {
-    "dev": "vercel dev"
-  },
   "dependencies": {
     "@vercel/postgres": "latest",
     "zod": "latest"
-  },
-  "devDependencies": {
-    "vercel": "latest"
   }
 }
